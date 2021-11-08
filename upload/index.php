@@ -84,8 +84,8 @@
   </div>
   </div>
   <br />
+  <hr>
   <div id="body">
-    <hr>
   <div class="column">
   <div class="box">
                         <div class="hidden_box">
