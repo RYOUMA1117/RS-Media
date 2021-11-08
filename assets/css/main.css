@@ -264,3 +264,41 @@ body {
       .box-fadein.lazyloaded img.lazyloaded {
         opacity: 1;
       }
+      
+
+  body{ 
+    margin-right: auto;
+    margin-left : auto;
+    width:80%;
+    font-size:100%;
+  }
+  
+  #header{
+    width:auto;
+    height:80px;
+    background-color:#1e93c1;
+    font-size:3em;
+    text-align : center;
+  }
+  
+  #contents{
+    width:700px;
+    min-height:300px;
+    color : #000000;
+    margin-top:1.5%; 
+    margin-bottom: 1.5%;
+    background-color :#ffffff;
+    font-size: 1.6em;
+    line-height: 1.5em;
+    border-radius: 15px;
+  }
+  
+  #footer{
+    width: auto;
+    height:80px;
+    background-color :red;
+    color : #000;
+    font-size:1.4em;
+    text-align : center;
+  }
+  
