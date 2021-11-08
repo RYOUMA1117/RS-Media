@@ -6,7 +6,6 @@
   </head>
 
  <body>
- <div id="body">
  <div style="text-align:center">
  <div class="column">
  <div class="title">
