@@ -301,16 +301,3 @@ body {
     font-size:1.4em;
     text-align : center;
   }
-  a{
-    padding: 0 10px;
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 50%, rgb(255, 238, 0) 50%);
-    background-position: 0 0;
-    background-size: 200% auto;
-    transition: .5s;
-  }
-  
-  a:hover{
-    background-position: -100% 0;
-    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
-    color: #187FC4;
-  }
