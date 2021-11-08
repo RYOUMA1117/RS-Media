@@ -37,7 +37,7 @@
   <h2>ファイルのプレビュー</h2>
   <hr>
 </div>
-  <p>ここにプレビューが表示されます。</p>
+  <p class="is-size-20">ここにプレビューが表示されます。</p>
     <img id="preview" width="200px">
 </p>
   </figure>
