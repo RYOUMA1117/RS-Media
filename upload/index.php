@@ -79,6 +79,7 @@
   </div>
   </div>
   <br />
+  <div id="body">
   <div class="column">
   <div class="box">
                         <div class="hidden_box">
