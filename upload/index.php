@@ -44,7 +44,7 @@
 
   
 
-    
+</div>
     </div>
     <div class="box">
     <div style="text-align:center">
