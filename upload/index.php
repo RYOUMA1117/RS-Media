@@ -32,6 +32,7 @@
   <h2>ファイルのプレビュー</h2>
   <hr>
 </div>
+</div>
   <div class="box column">
   <div style="text-align:center">
   <p>ここにプレビューが表示されます。</p>
