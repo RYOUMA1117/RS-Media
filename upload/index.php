@@ -34,6 +34,7 @@
     <div id="body">
 <div class="box column">
 <div style="text-align:center">
+<br />
   <h2>ファイルのプレビュー</h2>
   <hr>
 </div>
