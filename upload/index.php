@@ -28,6 +28,7 @@
     </div>
     </div>
     </div>
+    <div id="body">
     <hr>
     <div class="title">
     <div id="body">
