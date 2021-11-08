@@ -28,7 +28,7 @@
     </div>
     </div>
     </div>
-    <div id="body" class="content">
+    <div id="body">
     <hr>
     <div class="title">
     <div id="body">
