@@ -27,13 +27,13 @@
     </div>
     </div>
     </div>
-<div class="title column">
+<div class="box title column">
 <div style="text-align:center">
   <h2>ファイルのプレビュー</h2>
   <hr>
 </div>
 </div>
-  <div class="box column">
+  <div class="column">
   <div style="text-align:center">
   <p>ここにプレビューが表示されます。</p>
     <img id="preview" width="200px">
