@@ -29,6 +29,18 @@ $tmp_file = @$_FILES['image']['tmp_name'];
 $copy_file = date("Ymd-His") . ".$file_type" ;
 if (is_uploaded_file($_FILES["image"]["tmp_name"])) {
 	if (move_uploaded_file($tmp_file,"$updir/$copy_file")) {
+    //例えば, SVGをPNGに変換する
+$svg = './img/files/'$_FILES["image"]["name"];
+$png = './img/files/'$_FILES["image"]["name"];
+
+$im = new Imagick();
+$im->readImage($svg);
+$im->setImageFormat('png');
+$im->writeImage($png);
+
+//後処理
+$im->clear();
+$im->destroy();
 		chmod("upload_files/" . $_FILES["image"]["name"], 0644);
         echo $_FILES["image"]["name"] . "をアップロードしました。<br />";
         echo "アップロードしたファイルは <a href=\"" . $updir . "/" . $copy_file . "\" target=\"_blank\">こちら</a> から確認できます。<br />";
