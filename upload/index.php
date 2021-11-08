@@ -29,6 +29,7 @@
     </div>
     </div>
     <div class="title">
+    <div id="body">
 <div class="box column">
 <div style="text-align:center">
   <h2>ファイルのプレビュー</h2>
