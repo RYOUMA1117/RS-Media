@@ -49,6 +49,7 @@
 </div>
     </div>
     <div id="body">
+      <hr>
     <div class="box">
     <div style="text-align:center">
     <br /><div class="column"><p>まだアップロードは完了していません。<input type="submit" value="アップロード" class="button is-medium is-success is-outlined is-rounded aria-haspopup="true"> ボタンを押す必要があります。</p>
