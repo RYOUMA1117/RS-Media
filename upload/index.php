@@ -10,7 +10,7 @@
  <div style="text-align:center">
  <div class="column">
  <div class="title">
-    <h1>アップロード</h1>
+    <h2>アップロード</h2>
 </div>
 <div class="box">
     <div class="column">
