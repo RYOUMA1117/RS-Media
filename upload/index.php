@@ -28,6 +28,7 @@
     </div>
     </div>
     </div>
+    <hr>
     <div class="title">
     <div id="body">
 <div class="box column">
