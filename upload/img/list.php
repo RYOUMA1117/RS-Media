@@ -26,6 +26,7 @@
                             <div class="hidden_show">
                                 <br />
                                 <div style="text-align:center">
+                                <hr>
 <iframe src="https://media-ryouma.sytes.net/upload/frame/index.php" width="100%" height="50%" loading="lazy"></iframe>
 </div>
 </div>
@@ -33,6 +34,7 @@
 </div>
 <div class="title">
   <h2>動画・画像ファイル一覧</h2>
+  <hr>
 </div>
 </div>
 </div>
