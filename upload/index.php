@@ -31,8 +31,10 @@
 <div style="text-align:center">
   <h2>ファイルのプレビュー</h2>
   <hr>
-  <div class="box">
+</div>
+  <div class="box column">
   <div style="text-align:center">
+  <p>ここにプレビューが表示されます。</p>
     <img id="preview" width="200px">
 </p>
   </figure>
