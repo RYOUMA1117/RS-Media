@@ -27,7 +27,8 @@
     </div>
     </div>
     </div>
-<div class="box title column">
+    <div class=title>
+<div class="box column">
 <div style="text-align:center">
   <h2>ファイルのプレビュー</h2>
   <hr>
