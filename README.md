@@ -1,6 +1,3 @@
-# RS-Media
-[RSソース](https://media-ryouma.sytes.net/)の~~バックアップ~~改善用リポジトリです。
-
-中身がぐちゃぐちゃなのは気にしないでください。「動けばいい」という精神の人間なのです。
-
-この[リポジトリのライセンス](https://github.com/RYOUMA1117/RS-Media/blob/main/LICENSE)は、[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.ja)でご利用いただけます☆
+version https://git-lfs.github.com/spec/v1
+oid sha256:220f9532eb01fc8d6eb76a07eef1c555d8c84ea2949f742b7340990eed11f97d
+size 462
